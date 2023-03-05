@@ -8,5 +8,5 @@ dic={1: 'hello there',
     2: 'I have a bad feeling about this',
     3: 'May the force be with you'}
 
-for i in range(len(dic)):   
+for i in dic:   
     print(dic[i])
